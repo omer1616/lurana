@@ -1,0 +1,7 @@
+<!-- logo.svg -->
+<svg width="120" height="120" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" stroke="#E2B44E" stroke-width="6"/>
+  <path d="M80 130 C95 115, 115 90, 100 70 L125 75 L110 60" stroke="#E2B44E" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="100" y="165" text-anchor="middle" fill="#E2B44E" font-size="22" font-family="Georgia, serif">LUNARA</text>
+  <text x="100" y="185" text-anchor="middle" fill="#D6A53A" font-size="12" font-family="Verdana, sans-serif" letter-spacing="3">EXCLUSIVE</text>
+</svg>
